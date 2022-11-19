@@ -1,2 +1,2 @@
-# shivu-
-Shivu
+pkg up -y
+
